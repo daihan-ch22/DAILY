@@ -7,4 +7,5 @@
 
 [Section1 회고](https://danc9921.tistory.com/88)
 
-!(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbF8XSg%2FbtrCWNbGQXw%2FlaxgoJKonJXrV8IJQWXBuK%2Fimg.png)
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbF8XSg%2FbtrCWNbGQXw%2FlaxgoJKonJXrV8IJQWXBuK%2Fimg.png" width="210" height="210">
