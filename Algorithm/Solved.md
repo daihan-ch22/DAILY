@@ -9,6 +9,11 @@
 - 평균 구하기 
 - 수박수박 - (7 June)
 
+### BAEKJOON
+#### ARRAY
+- #15596 정수 N개의 합 - (8 June)
+- #3052 나머지 - (8 June)
+
 ----
 ### LeetCode 
 #### EASY
