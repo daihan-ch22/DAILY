@@ -9,14 +9,16 @@
              평균 구하기 
      7 June - 수박수박  
 
-### BAEKJOON
-#### ARRAY
+### BAEKJOON - 단계별 풀기
+#### ARRAY (4단계)
      8 June - 정수 N개의 합 #15596
      8 June - 나머지 #3052
     10 June - 평균은 넘겠지 #4344
-#### RECURSION
+#### RECURSION (9단계)
      9 June - 팩토리얼 #10872
     10 June - 재귀함수가 뭔가요? #17478 (레퍼런스 참조)
+#### SORT (11단계)
+    10 June - 수 정렬하기1 #2750
 
 ----
 ### LeetCode 
