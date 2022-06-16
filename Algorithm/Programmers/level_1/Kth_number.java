@@ -2,7 +2,7 @@ import java.util.*;
 // https://programmers.co.kr/learn/courses/30/lessons/42748
 public class Kth_number {
     public static void main(String[] args) {
-        q1tt qq  = new q1tt(){};
+        KNUM qq  = new KNUM(){};
         int[] arr = {1,5,2,6,3,7,4};
         int[][] arr2 = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
 
@@ -10,7 +10,7 @@ public class Kth_number {
     }
 }
 
-class q1tt {
+class KNUM {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         int[] temp = new int[commands.length+1];
