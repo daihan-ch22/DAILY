@@ -1,5 +1,5 @@
 # 풀어본 알고리즘 문제 
-~ 1 algo per day ~ (hopefully..)
+
 ## Programmers 
 #### Level1
                짝수와 홀수
