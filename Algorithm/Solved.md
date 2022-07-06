@@ -2,21 +2,31 @@
 
 ## Programmers 
 #### Level1
-               짝수와 홀수
-               K번째 수 
-               직사각형 별 찍기
-               행렬의 덧셈 
-               평균 구하기 
-      7 June - 수박수박수박 
-     12 June - 콜라츠 추측
-      2 July - 핸드폰 번호 가리기
+        
+<details markdown="1">
+<summary>접기/펼치기</summary>
 
+    짝수와 홀수
+    K번째 수 
+    직사각형 별 찍기
+    행렬의 덧셈 
+    평균 구하기 
+    2 July - 핸드폰 번호 가리기
+    7 June - 수박수박수박 
+    12 June - 콜라츠 추측
+    
+ 
+</details>
 ----
 
 ## BAEKJOON - 단계별 풀기
 
 
 ### JUNE 2022
+    
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
     8 June - 나머지 #3052    
     8 June - 정수 N개의 합 #15596
     9 June - 팩토리얼 #10872
@@ -32,6 +42,10 @@
     20 June - 셀프 넘버 #4673 (레퍼런스 참조)    
     23 June - 기찍 N #2742
     25 June - A+B-8 #11022
+
+</details>
+
+
 ### JULY 2022
      2 July - 최소,최대 #10818
      3 July - 손익분기점 #1712
