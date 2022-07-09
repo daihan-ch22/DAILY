@@ -1,5 +1,5 @@
 import java.util.*;
-public class SuprisebyId {
+public class SurprisebyId {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String id = sc.nextLine();
