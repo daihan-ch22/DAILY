@@ -1,3 +1,5 @@
+package week1;
+
 public class Welcome_5337 {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.*;
 public class SurprisebyId {
     public static void main(String[] args) {
