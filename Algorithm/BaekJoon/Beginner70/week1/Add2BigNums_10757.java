@@ -9,7 +9,7 @@ public class Add2BigNums_10757 {
         BigInteger A = sc.nextBigInteger();
         BigInteger B = sc.nextBigInteger();
         sc.close();
-
         System.out.println(A.add(B));
+
     }
 }
