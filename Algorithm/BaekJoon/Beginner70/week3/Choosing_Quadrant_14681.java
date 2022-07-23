@@ -2,7 +2,7 @@ package week3;
 
 import java.util.Scanner;
 
-public class Choosing_Quadrant {
+public class Choosing_Quadrant_14681 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
