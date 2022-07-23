@@ -10,6 +10,8 @@ public class MathIsPE_15894 {
 
         long n = Long.parseLong(bf.readLine());
         bf.close();
+
+        //4의 배수가 나온다
         System.out.println(n*4);
     }
 }
